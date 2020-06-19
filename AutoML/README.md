@@ -1,5 +1,8 @@
 # AutoML Tables
 
+## 컨트리뷰터
+- 이용운(Roy Lee) yongwoonyo@gmail.com
+
 ## 인트로
 2018년 샌프란시스코에서 열린 Google NEXT에 참가했을 때 AutoML을 처음 접했는데 굉장히 인상적이었던 기억이 있다.
 그런데 불과 2년 남짓 지났을까 .. AutoML 하위 서비스들이 줄줄이 비엔나로 쏟아져 나오고, 발전하고 있어서 다시 한번 놀랐다.
