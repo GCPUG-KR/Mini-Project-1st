@@ -73,6 +73,13 @@ House Prices 를 예측하는 것을 다룹니다. 관련 데이터는 아래 �
 - 데이터, 데이터, ..
 
 ### 관련 에러 스크린샷
+![Screen Shot 2020-06-25 at 3 38 14 PM](https://user-images.githubusercontent.com/17630839/85668865-31b13e00-b6fa-11ea-92f3-903a867571dd.png)
+
+![Screen Shot 2020-06-25 at 3 39 35 PM](https://user-images.githubusercontent.com/17630839/85669107-763cd980-b6fa-11ea-8b9e-f4c087fe62e4.png)
+
+![Screen Shot 2020-06-25 at 3 39 53 PM](https://user-images.githubusercontent.com/17630839/85669141-7f2dab00-b6fa-11ea-8293-0575af77ed78.png)
+
+![Screen Shot 2020-06-25 at 3 40 06 PM](https://user-images.githubusercontent.com/17630839/85669173-86ed4f80-b6fa-11ea-8f27-5e0ff6bd44c2.png)
 
 
 # 보너스 트랙: 지극히 개인적인 GCP AI Services 특징 비교
